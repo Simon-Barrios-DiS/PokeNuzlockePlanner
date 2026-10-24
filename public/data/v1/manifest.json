@@ -1,0 +1,11 @@
+{
+  "datasetVersion": "v1",
+  "generatedAt": "2026-10-22T20:01:36.306Z",
+  "source": "https://pokeapi.co/api/v2",
+  "scope": "main-game-and-dlc",
+  "locale": "es-ES",
+  "gameCount": 20,
+  "versionCount": 36,
+  "pokedexCount": 34,
+  "dlcCount": 4
+}

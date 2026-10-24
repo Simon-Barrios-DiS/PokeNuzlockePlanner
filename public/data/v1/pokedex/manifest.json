@@ -1,0 +1,207 @@
+{
+  "datasetVersion": "v1",
+  "generatedAt": "2026-10-22T20:15:11.886Z",
+  "source": "https://pokeapi.co/api/v2",
+  "pilots": [
+    {
+      "gameId": "red-blue",
+      "name": "Pokémon Rojo / Azul",
+      "entryCount": 151,
+      "availableCount": 114,
+      "exclusiveCount": 22,
+      "encounterDataAvailable": true,
+      "exclusivitySource": "curated",
+      "dataQuality": "complete"
+    },
+    {
+      "gameId": "yellow",
+      "name": "Pokémon Amarillo",
+      "entryCount": 151,
+      "availableCount": 106,
+      "exclusiveCount": 0,
+      "encounterDataAvailable": true,
+      "exclusivitySource": null,
+      "dataQuality": "complete"
+    },
+    {
+      "gameId": "gold-silver",
+      "name": "Pokémon Oro / Plata",
+      "entryCount": 251,
+      "availableCount": 164,
+      "exclusiveCount": 20,
+      "encounterDataAvailable": true,
+      "exclusivitySource": "curated",
+      "dataQuality": "complete"
+    },
+    {
+      "gameId": "crystal",
+      "name": "Pokémon Cristal",
+      "entryCount": 251,
+      "availableCount": 170,
+      "exclusiveCount": 0,
+      "encounterDataAvailable": true,
+      "exclusivitySource": null,
+      "dataQuality": "complete"
+    },
+    {
+      "gameId": "ruby-sapphire",
+      "name": "Pokémon Rubí / Zafiro",
+      "entryCount": 202,
+      "availableCount": 135,
+      "exclusiveCount": 14,
+      "encounterDataAvailable": true,
+      "exclusivitySource": "curated",
+      "dataQuality": "complete"
+    },
+    {
+      "gameId": "emerald",
+      "name": "Pokémon Esmeralda",
+      "entryCount": 202,
+      "availableCount": 129,
+      "exclusiveCount": 0,
+      "encounterDataAvailable": true,
+      "exclusivitySource": null,
+      "dataQuality": "complete"
+    },
+    {
+      "gameId": "firered-leafgreen",
+      "name": "Pokémon Rojo Fuego / Verde Hoja",
+      "entryCount": 151,
+      "availableCount": 116,
+      "exclusiveCount": 26,
+      "encounterDataAvailable": true,
+      "exclusivitySource": "curated",
+      "dataQuality": "complete"
+    },
+    {
+      "gameId": "diamond-pearl",
+      "name": "Pokémon Diamante / Perla",
+      "entryCount": 151,
+      "availableCount": 115,
+      "exclusiveCount": 14,
+      "encounterDataAvailable": true,
+      "exclusivitySource": "curated",
+      "dataQuality": "complete"
+    },
+    {
+      "gameId": "platinum",
+      "name": "Pokémon Platino",
+      "entryCount": 210,
+      "availableCount": 139,
+      "exclusiveCount": 0,
+      "encounterDataAvailable": true,
+      "exclusivitySource": null,
+      "dataQuality": "complete"
+    },
+    {
+      "gameId": "heartgold-soulsilver",
+      "name": "Pokémon Oro HeartGold / Plata SoulSilver",
+      "entryCount": 256,
+      "availableCount": 185,
+      "exclusiveCount": 24,
+      "encounterDataAvailable": true,
+      "exclusivitySource": "curated",
+      "dataQuality": "complete"
+    },
+    {
+      "gameId": "black-white",
+      "name": "Pokémon Negro / Blanco",
+      "entryCount": 156,
+      "availableCount": 120,
+      "exclusiveCount": 18,
+      "encounterDataAvailable": true,
+      "exclusivitySource": "curated",
+      "dataQuality": "complete"
+    },
+    {
+      "gameId": "black-2-white-2",
+      "name": "Pokémon Negro 2 / Blanco 2",
+      "entryCount": 301,
+      "availableCount": 230,
+      "exclusiveCount": 32,
+      "encounterDataAvailable": true,
+      "exclusivitySource": "curated",
+      "dataQuality": "complete"
+    },
+    {
+      "gameId": "x-y",
+      "name": "Pokémon X / Y",
+      "entryCount": 457,
+      "availableCount": 308,
+      "exclusiveCount": 32,
+      "encounterDataAvailable": true,
+      "exclusivitySource": "curated",
+      "dataQuality": "complete"
+    },
+    {
+      "gameId": "omega-ruby-alpha-sapphire",
+      "name": "Pokémon Rubí Omega / Zafiro Alfa",
+      "entryCount": 211,
+      "availableCount": 70,
+      "exclusiveCount": 14,
+      "encounterDataAvailable": true,
+      "exclusivitySource": "curated",
+      "dataQuality": "complete"
+    },
+    {
+      "gameId": "sun-moon",
+      "name": "Pokémon Sol / Luna",
+      "entryCount": 302,
+      "availableCount": 216,
+      "exclusiveCount": 30,
+      "encounterDataAvailable": true,
+      "exclusivitySource": "curated",
+      "dataQuality": "complete"
+    },
+    {
+      "gameId": "ultra-sun-ultra-moon",
+      "name": "Pokémon Ultrasol / Ultraluna",
+      "entryCount": 403,
+      "availableCount": 300,
+      "exclusiveCount": 56,
+      "encounterDataAvailable": true,
+      "exclusivitySource": "curated",
+      "dataQuality": "complete"
+    },
+    {
+      "gameId": "lets-go-pikachu-lets-go-eevee",
+      "name": "Pokémon Let’s Go, Pikachu! / Let’s Go, Eevee!",
+      "entryCount": 153,
+      "availableCount": 128,
+      "exclusiveCount": 23,
+      "encounterDataAvailable": true,
+      "exclusivitySource": "curated",
+      "dataQuality": "complete"
+    },
+    {
+      "gameId": "sword-shield",
+      "name": "Pokémon Espada / Escudo",
+      "entryCount": 584,
+      "availableCount": 570,
+      "exclusiveCount": 74,
+      "encounterDataAvailable": true,
+      "exclusivitySource": "curated",
+      "dataQuality": "complete"
+    },
+    {
+      "gameId": "brilliant-diamond-shining-pearl",
+      "name": "Pokémon Diamante Brillante / Perla Reluciente",
+      "entryCount": 151,
+      "availableCount": 0,
+      "exclusiveCount": 14,
+      "encounterDataAvailable": false,
+      "exclusivitySource": "curated",
+      "dataQuality": "partial"
+    },
+    {
+      "gameId": "scarlet-violet",
+      "name": "Pokémon Escarlata / Púrpura",
+      "entryCount": 664,
+      "availableCount": 0,
+      "exclusiveCount": 66,
+      "encounterDataAvailable": false,
+      "exclusivitySource": "curated",
+      "dataQuality": "partial"
+    }
+  ]
+}

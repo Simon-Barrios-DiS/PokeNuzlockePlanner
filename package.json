@@ -1,0 +1,30 @@
+{
+  "name": "pokenuzlockeplanner",
+  "private": true,
+  "version": "0.9.0",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "build:games": "node scripts/build-games.mjs",
+    "build:pokedex": "node scripts/build-pokedex.mjs",
+    "build:routes": "node scripts/build-routes.mjs",
+    "build:pokemon": "node scripts/build-pokemon.mjs",
+    "build:forms": "node scripts/build-forms.mjs",
+    "report:coverage": "node scripts/report-coverage.mjs",
+    "build:data": "node scripts/build-games.mjs && node scripts/build-pokedex.mjs && node scripts/build-routes.mjs && node scripts/build-pokemon.mjs && node scripts/build-forms.mjs",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^7.18.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.7.0",
+    "vite": "^6.4.4"
+  }
+}

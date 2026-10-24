@@ -1,0 +1,151 @@
+{
+  "datasetVersion": "v1",
+  "generatedAt": "2026-10-22T20:15:19.784Z",
+  "source": "https://pokeapi.co/api/v2",
+  "pilots": [
+    {
+      "gameId": "red-blue",
+      "name": "Pokémon Rojo / Azul",
+      "locationCount": 45,
+      "routeCount": 25,
+      "numberedRouteCount": 25,
+      "areaCount": 74
+    },
+    {
+      "gameId": "yellow",
+      "name": "Pokémon Amarillo",
+      "locationCount": 45,
+      "routeCount": 25,
+      "numberedRouteCount": 25,
+      "areaCount": 74
+    },
+    {
+      "gameId": "gold-silver",
+      "name": "Pokémon Oro / Plata",
+      "locationCount": 83,
+      "routeCount": 45,
+      "numberedRouteCount": 45,
+      "areaCount": 124
+    },
+    {
+      "gameId": "crystal",
+      "name": "Pokémon Cristal",
+      "locationCount": 84,
+      "routeCount": 45,
+      "numberedRouteCount": 45,
+      "areaCount": 126
+    },
+    {
+      "gameId": "ruby-sapphire",
+      "name": "Pokémon Rubí / Zafiro",
+      "locationCount": 67,
+      "routeCount": 34,
+      "numberedRouteCount": 34,
+      "areaCount": 104
+    },
+    {
+      "gameId": "emerald",
+      "name": "Pokémon Esmeralda",
+      "locationCount": 73,
+      "routeCount": 34,
+      "numberedRouteCount": 34,
+      "areaCount": 111
+    },
+    {
+      "gameId": "firered-leafgreen",
+      "name": "Pokémon Rojo Fuego / Verde Hoja",
+      "locationCount": 70,
+      "routeCount": 32,
+      "numberedRouteCount": 25,
+      "areaCount": 119
+    },
+    {
+      "gameId": "diamond-pearl",
+      "name": "Pokémon Diamante / Perla",
+      "locationCount": 69,
+      "routeCount": 30,
+      "numberedRouteCount": 30,
+      "areaCount": 156
+    },
+    {
+      "gameId": "platinum",
+      "name": "Pokémon Platino",
+      "locationCount": 71,
+      "routeCount": 30,
+      "numberedRouteCount": 30,
+      "areaCount": 159
+    },
+    {
+      "gameId": "heartgold-soulsilver",
+      "name": "Pokémon Oro HeartGold / Plata SoulSilver",
+      "locationCount": 95,
+      "routeCount": 47,
+      "numberedRouteCount": 47,
+      "areaCount": 167
+    },
+    {
+      "gameId": "black-white",
+      "name": "Pokémon Negro / Blanco",
+      "locationCount": 50,
+      "routeCount": 18,
+      "numberedRouteCount": 18,
+      "areaCount": 86
+    },
+    {
+      "gameId": "black-2-white-2",
+      "name": "Pokémon Negro 2 / Blanco 2",
+      "locationCount": 66,
+      "routeCount": 22,
+      "numberedRouteCount": 22,
+      "areaCount": 130
+    },
+    {
+      "gameId": "x-y",
+      "name": "Pokémon X / Y",
+      "locationCount": 46,
+      "routeCount": 21,
+      "numberedRouteCount": 21,
+      "areaCount": 79
+    },
+    {
+      "gameId": "omega-ruby-alpha-sapphire",
+      "name": "Pokémon Rubí Omega / Zafiro Alfa",
+      "locationCount": 50,
+      "routeCount": 17,
+      "numberedRouteCount": 17,
+      "areaCount": 91
+    },
+    {
+      "gameId": "sun-moon",
+      "name": "Pokémon Sol / Luna",
+      "locationCount": 69,
+      "routeCount": 17,
+      "numberedRouteCount": 17,
+      "areaCount": 97
+    },
+    {
+      "gameId": "ultra-sun-ultra-moon",
+      "name": "Pokémon Ultrasol / Ultraluna",
+      "locationCount": 73,
+      "routeCount": 17,
+      "numberedRouteCount": 17,
+      "areaCount": 113
+    },
+    {
+      "gameId": "lets-go-pikachu-lets-go-eevee",
+      "name": "Pokémon Let’s Go, Pikachu! / Let’s Go, Eevee!",
+      "locationCount": 40,
+      "routeCount": 25,
+      "numberedRouteCount": 25,
+      "areaCount": 59
+    },
+    {
+      "gameId": "sword-shield",
+      "name": "Pokémon Espada / Escudo",
+      "locationCount": 84,
+      "routeCount": 10,
+      "numberedRouteCount": 10,
+      "areaCount": 379
+    }
+  ]
+}

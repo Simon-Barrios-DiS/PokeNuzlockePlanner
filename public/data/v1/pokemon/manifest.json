@@ -1,0 +1,98 @@
+{
+  "datasetVersion": "v1",
+  "generatedAt": "2026-10-22T20:29:32.922Z",
+  "source": "https://pokeapi.co/api/v2",
+  "games": [
+    {
+      "gameId": "red-blue",
+      "name": "Pokémon Rojo / Azul",
+      "entryCount": 151
+    },
+    {
+      "gameId": "yellow",
+      "name": "Pokémon Amarillo",
+      "entryCount": 151
+    },
+    {
+      "gameId": "gold-silver",
+      "name": "Pokémon Oro / Plata",
+      "entryCount": 251
+    },
+    {
+      "gameId": "crystal",
+      "name": "Pokémon Cristal",
+      "entryCount": 251
+    },
+    {
+      "gameId": "ruby-sapphire",
+      "name": "Pokémon Rubí / Zafiro",
+      "entryCount": 202
+    },
+    {
+      "gameId": "emerald",
+      "name": "Pokémon Esmeralda",
+      "entryCount": 202
+    },
+    {
+      "gameId": "firered-leafgreen",
+      "name": "Pokémon Rojo Fuego / Verde Hoja",
+      "entryCount": 151
+    },
+    {
+      "gameId": "diamond-pearl",
+      "name": "Pokémon Diamante / Perla",
+      "entryCount": 151
+    },
+    {
+      "gameId": "platinum",
+      "name": "Pokémon Platino",
+      "entryCount": 210
+    },
+    {
+      "gameId": "heartgold-soulsilver",
+      "name": "Pokémon Oro HeartGold / Plata SoulSilver",
+      "entryCount": 256
+    },
+    {
+      "gameId": "black-white",
+      "name": "Pokémon Negro / Blanco",
+      "entryCount": 156
+    },
+    {
+      "gameId": "black-2-white-2",
+      "name": "Pokémon Negro 2 / Blanco 2",
+      "entryCount": 301
+    },
+    {
+      "gameId": "x-y",
+      "name": "Pokémon X / Y",
+      "entryCount": 457
+    },
+    {
+      "gameId": "omega-ruby-alpha-sapphire",
+      "name": "Pokémon Rubí Omega / Zafiro Alfa",
+      "entryCount": 211
+    },
+    {
+      "gameId": "sun-moon",
+      "name": "Pokémon Sol / Luna",
+      "entryCount": 302
+    },
+    {
+      "gameId": "ultra-sun-ultra-moon",
+      "name": "Pokémon Ultrasol / Ultraluna",
+      "entryCount": 403
+    },
+    {
+      "gameId": "lets-go-pikachu-lets-go-eevee",
+      "name": "Pokémon Let’s Go, Pikachu! / Let’s Go, Eevee!",
+      "entryCount": 153
+    },
+    {
+      "gameId": "sword-shield",
+      "name": "Pokémon Espada / Escudo",
+      "entryCount": 584
+    }
+  ],
+  "note": "Fichas individuales en pokemon/{gameId}/{speciesId}.json"
+}
